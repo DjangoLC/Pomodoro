@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/bg_circle.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/bg_square.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/gradient.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic__11889_forward_skip_icon.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic__207891_next_arrows_multimedia_skip_ui_icon.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic__733300_basic_outline_reset_clock_ui_icon.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic_baseline_crop_square_24.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.241" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic_baseline_skip_next_24.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/icon_gradient.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/timer_body.xml" value="0.31258644536652835" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
