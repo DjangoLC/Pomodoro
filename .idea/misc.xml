@@ -8,13 +8,21 @@
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/gradient.xml" value="0.166" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic__11889_forward_skip_icon.xml" value="0.166" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic__207891_next_arrows_multimedia_skip_ui_icon.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic__643764_back_backward_left_reply_turn_icon.xml" value="0.269" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic__733300_basic_outline_reset_clock_ui_icon.xml" value="0.166" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.166" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic_baseline_crop_square_24.xml" value="0.166" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.269" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.241" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/ic_baseline_skip_next_24.xml" value="0.166" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/drawable/icon_gradient.xml" value="0.166" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/fragment_history.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/fragment_pomodoro.xml" value="0.25" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/fragment_settings.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/history_body_row.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/history_header.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/settings_row.xml" value="0.33229166666666665" />
         <entry key="..\:/Users/Enrique perez/AndroidStudioProjects/Pomodoro/app/src/main/res/layout/timer_body.xml" value="0.31258644536652835" />
       </map>
     </option>
